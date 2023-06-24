@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans+Narrow&family=Roboto+Condensed&display=swap');
+body{
+    background-color: rgb(0, 177, 162);
+}
+p{
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    border-radius: 20px;
+    background-color:#ffffff;
+    border-color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: 460px;
+    margin-right: 460px;
+}
+#boxtitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#boxgame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#vermelho{
+    border-radius: 9px;
+    border-start-start-radius: 64px;
+    background-color:#bb2121;
+    border-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
+#azul{
+    border-radius: 9px;
+    background-color:#235acf;
+    border-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
+
+#verde{
+    border-radius: 9px;
+    border-start-end-radius: 64px;
+    background-color:#55d3a9;
+    border-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    height: 150px;
+    width: 150px;
+}
+
+#amarelo{
+    border-radius: 9px;
+    background-color:#e9c811;
+    border-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    height: 150px;
+    width: 150px;
+}
+
+table td{
+    text-align: center ;
+} 
+footer{
+    display: flex;
+    justify-content: center;
+    
+}
+footer{
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    border-radius: 20px;
+    background-color:#ffffff;
+    border-color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    padding: 18px;
+    margin-left: 445px;
+    margin-right: 445px;
+    margin-top: 16px;
+}
+#verificar{
+    border-radius: 9px;
+    border-end-end-radius: 64px;
+    background-color:#ffffff;
+    border-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#jogarMaquina{
+    border-radius: 9px;
+    border-end-start-radius: 64px;
+    background-color:#ffffff;
+    border-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    text-align: center;
+    padding: 15px;
+    padding-right: 36px;
+    padding-left: 36px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* by: eduardo r.t */
